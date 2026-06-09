@@ -8,7 +8,7 @@
 
 ### 🚀 Flutter & Frontend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Frontend+Developer;React+Developer;Problem+Solver;C%2B%2B+%7C+Python+%7C+OOP;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Frontend+Developer;React+Developer;Problem+Solver;C%2B%2B+%7C+Python;Always+Learning+New+Things" />
 
 <br>
 
@@ -109,8 +109,8 @@ class About extends Me {
 
 - 🎓 MIS (Business Technology) Graduate from The Egyptian Russian University.
 - 💻 Passionate about Software Development, Mobile Applications, and Modern Web Technologies.
-- 📱 Specialized in Flutter Mobile Development.
-- 🎨 Interested in Frontend Development & UI/UX Design.
+- 📱 Specialized in Frontend Development.
+- 🎨 Interested in Frontend Development & UI/UX Design & Backend Development (FullStack) & Futter Mobile Development.
 - 🚀 Building modern Web & Mobile Applications.
 - ⚛️ Working mainly with React, Flutter, JavaScript, Dart, Python, and C++.
 - 🌱 Continuously expanding my skills in Backend Development and System Design.
