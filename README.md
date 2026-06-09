@@ -1,10 +1,8 @@
-### 🚀 Flutter & Frontend Developer
-
-````html
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 # 👋 Hello World, I'm Rawda Ayman
 
@@ -14,9 +12,9 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rawdaayman368&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=rawdaayman368\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rawda_Ayman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wrawda-ayman-0a6585326)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rawda_Ayman-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/wrawda-ayman-0a6585326)
 
 </div>
 
@@ -24,27 +22,27 @@
 
 ## 🚀 Tools I Use
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat\&logo=firebase\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=android-studio\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
 ---
 
 ## 💻 About Me
 
-\```dart
-// tools_I_use organized
-
+```dart
 class About extends Me {
 
   const myProfile = {
@@ -52,13 +50,14 @@ class About extends Me {
     "Name" : "Rawda Ayman",
 
     "Role" : "Flutter & Frontend Developer",
+
     "Specialization" : "Frontend Development & Mobile Development",
 
-    "ProgramingLanguages" : {
+    "ProgrammingLanguages" : {
       "Dart",
       "JavaScript",
-      "PHP",
       "Python",
+      "PHP",
       "C++"
     },
 
@@ -104,17 +103,17 @@ class About extends Me {
     }
   };
 }
-\```
+```
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" />
 
-- 👩🏻‍💻 Computer Science Student passionate about software development.
-- 📱 Specialized in Flutter Mobile Development.
-- 🎨 Interested in Frontend Development & UI/UX Design.
-- 🚀 Building modern Web & Mobile Applications.
-- ⚛️ Working mainly with React, Flutter, JavaScript, Dart, Python, and C++.
-- 💬 Ask me about Flutter, React, Frontend Development, OOP, and Problem Solving.
-- 🌱 Currently learning Advanced React, Backend Development, and System Design.
+* 👩🏻‍💻 Computer Science Student passionate about software development.
+* 📱 Specialized in Flutter Mobile Development.
+* 🎨 Interested in Frontend Development & UI/UX Design.
+* 🚀 Building modern Web & Mobile Applications.
+* ⚛️ Working mainly with React, Flutter, JavaScript, Dart, Python, and C++.
+* 💬 Ask me about Flutter, React, Frontend Development, OOP, and Problem Solving.
+* 🌱 Currently learning Advanced React, Backend Development, and System Design.
 
 <br clear="right"/>
 
@@ -159,13 +158,15 @@ class About extends Me {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
+
+     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
 
 </div>
 
@@ -204,4 +205,3 @@ class About extends Me {
 ### ⭐ Building ideas into real applications every day
 
 </div>
-````
