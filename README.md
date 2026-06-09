@@ -1,12 +1,13 @@
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 # 👋 Hello World, I'm Rawda Ayman
 
-### 🚀 Frontend & Mobile Developer
+### 🚀 FullStack & Mobile Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Flutter+Developer;React+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Flutter+Developer;React+Enthusiast;Always+Learning+New+Things" />
 
 <br>
 
@@ -33,7 +34,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
 ## 💻 About Me
 
 ```dart
@@ -44,6 +44,9 @@ class About extends Me {
   const myProfile = {
 
     "Name" : "Rawda Ayman",
+
+    "Role" : "Full Stack Developer",
+    "Specialization" : "Frontend Development",
 
     "ProgramingLanguages" : {
       "Dart",
@@ -92,10 +95,11 @@ class About extends Me {
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 - 👩🏻‍💻 I’m currently learning **Advanced React & Backend Development**.
-- 🚀 I enjoy building **Web & Mobile Applications**.
-- 🎨 I love creating **Clean UI/UX Designs**.
-- 💬 Ask me about **Flutter, React, Frontend Development, or anything tech**.
-- 🌱 Currently improving my **Problem Solving & System Design** skills.
+- 🎨 Specialized in **Frontend Development & UI/UX Design**.
+- 🚀 Building modern **Web & Mobile Applications**.
+- ⚛️ Working mainly with **React, Flutter, JavaScript, and Dart**.
+- 💬 Ask me about **Frontend Development, Flutter, React, or anything tech**.
+- 🌱 Continuously improving my **Full Stack Development & System Design** skills.
 - ✨ Fun fact: Sometimes the bug disappears when I finally decide to ask for help 😅.
 
 <br clear="right"/>
@@ -136,56 +140,19 @@ class About extends Me {
 </div>
 
 ---
-
 ## 💻 Code Cycle
 
 <div align="center">
 
-😵 Write Code
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-⬇️
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-🐛 Find Bug
-
-⬇️
-
-☕ Debug For Hours
-
-⬇️
-
-😌 Finally Fixed
-
-⬇️
-
-🚫 Never Touch It Again
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-```md
-![snake gif](https://github.com/rawdaayman368/rawdaayman368/blob/output/github-contribution-grid-snake.svg)
-```
-
----
 
 ## 📫 Connect With Me
 
@@ -197,7 +164,4 @@ class About extends Me {
 <div align="center">
 
 ### ⭐ Building ideas into real applications every day
-
-🐧💜
-
 </div>
