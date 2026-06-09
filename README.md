@@ -1,13 +1,16 @@
+### 🚀 Flutter & Frontend Developer
+
+````html
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br>
 
 # 👋 Hello World, I'm Rawda Ayman
 
-### 🚀 FullStack & Mobile Developer
+### 🚀 Flutter & Frontend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Flutter+Developer;React+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Frontend+Developer;React+Developer;Problem+Solver;C%2B%2B+%7C+Python+%7C+OOP;Always+Learning+New+Things" />
 
 <br>
 
@@ -25,6 +28,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -34,9 +39,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
+
 ## 💻 About Me
 
-```dart
+\```dart
 // tools_I_use organized
 
 class About extends Me {
@@ -45,14 +51,22 @@ class About extends Me {
 
     "Name" : "Rawda Ayman",
 
-    "Role" : "Full Stack Developer",
-    "Specialization" : "Frontend Development",
+    "Role" : "Flutter & Frontend Developer",
+    "Specialization" : "Frontend Development & Mobile Development",
 
     "ProgramingLanguages" : {
       "Dart",
       "JavaScript",
       "PHP",
-      "Python"
+      "Python",
+      "C++"
+    },
+
+    "Concepts" : {
+      "Object Oriented Programming (OOP)",
+      "Problem Solving",
+      "Data Structures",
+      "Algorithms"
     },
 
     "OtherLanguages" : {
@@ -90,17 +104,17 @@ class About extends Me {
     }
   };
 }
-```
+\```
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
-- 👩🏻‍💻 I’m currently learning **Advanced React & Backend Development**.
-- 🎨 Specialized in **Frontend Development & UI/UX Design**.
-- 🚀 Building modern **Web & Mobile Applications**.
-- ⚛️ Working mainly with **React, Flutter, JavaScript, and Dart**.
-- 💬 Ask me about **Frontend Development, Flutter, React, or anything tech**.
-- 🌱 Continuously improving my **Full Stack Development & System Design** skills.
-- ✨ Fun fact: Sometimes the bug disappears when I finally decide to ask for help 😅.
+- 👩🏻‍💻 Computer Science Student passionate about software development.
+- 📱 Specialized in Flutter Mobile Development.
+- 🎨 Interested in Frontend Development & UI/UX Design.
+- 🚀 Building modern Web & Mobile Applications.
+- ⚛️ Working mainly with React, Flutter, JavaScript, Dart, Python, and C++.
+- 💬 Ask me about Flutter, React, Frontend Development, OOP, and Problem Solving.
+- 🌱 Currently learning Advanced React, Backend Development, and System Design.
 
 <br clear="right"/>
 
@@ -140,6 +154,7 @@ class About extends Me {
 </div>
 
 ---
+
 ## 💻 Code Cycle
 
 <div align="center">
@@ -154,14 +169,39 @@ class About extends Me {
 
 </div>
 
+---
+
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/rawdaayman368
-- LinkedIn: https://www.linkedin.com/in/wrawda-ayman-0a6585326
+<div align="center">
+
+<a href="https://github.com/rawdaayman368">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/wrawda-ayman-0a6585326">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/rawda.aymain/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/rawdaaymain/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:rawdaayman370@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
 ### ⭐ Building ideas into real applications every day
+
 </div>
+````
