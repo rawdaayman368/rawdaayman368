@@ -107,13 +107,13 @@ class About extends Me {
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" />
 
-* 👩🏻‍💻 Computer Science Student passionate about software development.
-* 📱 Specialized in Flutter Mobile Development.
-* 🎨 Interested in Frontend Development & UI/UX Design.
-* 🚀 Building modern Web & Mobile Applications.
-* ⚛️ Working mainly with React, Flutter, JavaScript, Dart, Python, and C++.
-* 💬 Ask me about Flutter, React, Frontend Development, OOP, and Problem Solving.
-* 🌱 Currently learning Advanced React, Backend Development, and System Design.
+- 🎓 MIS (Business Technology) Graduate from The Egyptian Russian University.
+- 💻 Passionate about Software Development, Mobile Applications, and Modern Web Technologies.
+- 📱 Specialized in Flutter Mobile Development.
+- 🎨 Interested in Frontend Development & UI/UX Design.
+- 🚀 Building modern Web & Mobile Applications.
+- ⚛️ Working mainly with React, Flutter, JavaScript, Dart, Python, and C++.
+- 🌱 Continuously expanding my skills in Backend Development and System Design.
 
 <br clear="right"/>
 
@@ -155,22 +155,11 @@ class About extends Me {
 ---
 
 ## 💻 Code Cycle
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
-
-     
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
-
-     
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="80"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="80"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="80"/>
 </div>
-
----
 
 ## 📫 Connect With Me
 
