@@ -1,90 +1,150 @@
-<div align="center">
+<div align="center" width="50">
 
-# Hi 👋, I'm Rawda Ayman
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-### Full Stack & Mobile Application Developer
+# Hi 👋 I'm Rawda Ayman
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+### 🚀 Full Stack & Mobile Application Developer
 
-💻 Building modern web and mobile applications  
-📱 Flutter & Mobile Development Enthusiast  
-🌐 Full Stack Developer  
-🎓 Computer Science Student
+<details>
+<summary><strong>Currently Building & Learning</strong></summary>
+
+⚛️ React Applications <br>
+📱 Flutter Mobile Apps <br>
+🔥 Backend Development <br>
+💡 UI/UX Improvements
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rawdaayman368\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rawda_Ayman-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/wrawda-ayman-0a6585326)
 
 </div>
 
----
+<hr>
 
-## 🚀 About Me
+![tools\_I\_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
 
-- 📱 Mobile Application Developer using Flutter
-- 🌐 Full Stack Developer
-- 🎓 Computer Science Student
-- 🔥 Interested in UI/UX and Software Engineering
-- 📚 Currently improving my skills in Backend Development & System Design
-- 🤝 Open to internships and junior developer opportunities
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat\&logo=firebase\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
----
+```dart
+class About extends Me {
 
-## 🛠️ Tech Stack
+  const profile = {
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+    "name" : "Rawda Ayman",
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    "role" : "Full Stack & Mobile Developer",
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    "specialization" : {
+      "React",
+      "Flutter"
+    },
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+    "frontend" : {
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    },
 
-### Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+    "mobile" : {
+      "Flutter",
+      "Dart"
+    },
 
----
+    "backend" : {
+      "PHP",
+      "Firebase"
+    },
 
-## 👩‍💻 Developer Profile
+    "database" : {
+      "MySQL",
+      "Firebase"
+    },
 
-```javascript
-const rawda = {
-  role: "Full Stack & Mobile Developer",
-  languages: ["JavaScript", "Dart", "PHP"],
-  frontend: ["React", "HTML", "CSS"],
-  backend: ["Node.js", "PHP"],
-  mobile: ["Flutter"],
-  database: ["MySQL", "Firebase"],
-  tools: ["Git", "GitHub", "VS Code", "Figma"],
-  currentFocus: "Building scalable web and mobile applications"
-};
+    "tools" : {
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Figma"
+    },
+
+    "currentlyLearning" : {
+      "Advanced React",
+      "Backend Development",
+      "System Design"
+    }
+  };
+}
 ```
 
----
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Currently building **Web & Mobile Applications**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about **React, Flutter, JavaScript, PHP & Firebase**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Passionate about **clean UI and user experience**.
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Connect with me on **LinkedIn**.
+* ⚡ Fun fact: I enjoy turning ideas into real applications.
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Rawda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=rawdaayman368&show_icons=true&theme=tokyonight" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawdaayman368&layout=compact&theme=tokyonight" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rawdaayman368&theme=tokyonight" width="32.5%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+</div>
 
----
+<details>
+<summary>More Stats</summary>
 
-## 📫 Connect With Me
+<br>
 
-- LinkedIn: YOUR_LINKEDIN
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: YOUR_EMAIL
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rawdaayman368&theme=tokyonight">
 
----
+</details>
 
-⭐ Always learning, building, and improving.
+<hr>
+
+### 💻 Code Cycle
+
+😵 Write Code
+
+⬇️
+
+🐛 Find Bug
+
+⬇️
+
+☕ Debug For Hours
+
+⬇️
+
+😌 Finally Fixed
+
+⬇️
+
+🚫 Never Touch It Again
+
+<hr>
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/rawdaayman368
+* LinkedIn: https://www.linkedin.com/in/wrawda-ayman-0a6585326
+
+⭐ Building, Learning, and Growing Every Day.
+
+</div>
