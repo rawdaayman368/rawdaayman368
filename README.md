@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-# Hi 👋 I'm Rawda Ayman
+# HELLO WORLD 👋 I'm Rawda Ayman,
 
 ### 🚀 Full Stack & Mobile Application Developer
 
@@ -120,26 +120,17 @@ class About extends Me {
 
 ### 💻 Code Cycle
 
-😵 Write Code
+<div align="center">
 
-⬇️
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />  
+⬇️  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />  
+⬇️  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" />  
 
-🐛 Find Bug
-
-⬇️
-
-☕ Debug For Hours
-
-⬇️
-
-😌 Finally Fixed
-
-⬇️
-
-🚫 Never Touch It Again
+</div>
 
 <hr>
-
 ### 📫 Connect With Me
 
 * GitHub: https://github.com/rawdaayman368
